@@ -16,7 +16,7 @@ namespace Haberler.Mail
             sc.Host = "smtp.gmail.com";
             sc.EnableSsl = true;
 
-            sc.Credentials = new NetworkCredential("newsayvansaray@gmail.com", "habersitesi");
+            sc.Credentials = new NetworkCredential("newsayvansaray@gmail.com", "ŞifreŞifreŞifre");
 
             MailMessage mail = new MailMessage();
 
@@ -40,7 +40,7 @@ namespace Haberler.Mail
             sc.Host = "smtp.gmail.com";
             sc.EnableSsl = true;
 
-            sc.Credentials = new NetworkCredential("newsayvansaray@gmail.com", "habersitesi");
+            sc.Credentials = new NetworkCredential("newsayvansaray@gmail.com", "ŞifreŞifreŞifre");
 
             MailMessage mail = new MailMessage();
 
